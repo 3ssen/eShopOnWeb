@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3123aa1d-389c-453f-a63d-d39029162343
-  WEBAPP-NAME: az400-webapp-RICKRICK
+  WEBAPP-NAME: az400-webapp-RICKRICK1234
 
 
 jobs:
